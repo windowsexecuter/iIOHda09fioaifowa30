@@ -1,0 +1,324 @@
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,229 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,229 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,229 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,229 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,229 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,230 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,230 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,231 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,231 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,231 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,231 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,231 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,231 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,231 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,232 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,233 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,233 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,233 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,233 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,233 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 19:48:55,233 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[PngImagePlugin.py:191] - 2024-06-19 19:48:55,234 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 19:48:55,234 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 19:48:55,234 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 19:48:55,234 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 19:48:55,234 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:191] - 2024-06-19 19:48:55,236 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 19:48:55,236 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 19:48:55,236 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 19:48:55,236 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 19:48:55,237 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:191] - 2024-06-19 19:48:55,238 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 19:48:55,238 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 19:48:55,238 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 19:48:55,238 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 19:48:55,238 - DEBUG - STREAM b'IDAT' 91 1063
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 20:57:59,821 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[PngImagePlugin.py:191] - 2024-06-19 20:57:59,827 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 20:57:59,827 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 20:57:59,827 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 20:57:59,827 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 20:57:59,827 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:191] - 2024-06-19 20:57:59,832 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 20:57:59,832 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 20:57:59,832 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 20:57:59,832 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 20:57:59,832 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:191] - 2024-06-19 20:57:59,841 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 20:57:59,842 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 20:57:59,842 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 20:57:59,842 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 20:57:59,842 - DEBUG - STREAM b'IDAT' 91 1063
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:09:24,007 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[PngImagePlugin.py:191] - 2024-06-19 21:09:24,007 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:09:24,007 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:09:24,007 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:09:24,007 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:09:24,007 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:191] - 2024-06-19 21:09:24,007 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:09:24,007 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:09:24,007 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:09:24,007 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:09:24,007 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:191] - 2024-06-19 21:09:24,007 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:09:24,007 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:09:24,007 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:09:24,007 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:09:24,007 - DEBUG - STREAM b'IDAT' 91 1063
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,051 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,051 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,051 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,051 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,051 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,051 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,051 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,052 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,052 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,052 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,052 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,052 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,052 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,052 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,053 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,053 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,053 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,053 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,053 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,053 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:16:47,053 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[PngImagePlugin.py:191] - 2024-06-19 21:16:47,053 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:16:47,053 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:16:47,054 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:16:47,054 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:16:47,054 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:191] - 2024-06-19 21:16:47,054 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:16:47,054 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:16:47,054 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:16:47,054 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:16:47,054 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:191] - 2024-06-19 21:16:47,055 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:16:47,055 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:16:47,055 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:16:47,055 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:16:47,055 - DEBUG - STREAM b'IDAT' 91 1063
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,509 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,509 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,509 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,509 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,509 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,509 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,509 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,510 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,510 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,510 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,510 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,510 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,510 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,510 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,510 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,510 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,510 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,510 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,510 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,510 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:18:41,511 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[PngImagePlugin.py:191] - 2024-06-19 21:18:41,511 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:18:41,511 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:18:41,511 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:18:41,511 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:18:41,511 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:191] - 2024-06-19 21:18:41,511 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:18:41,512 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:18:41,512 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:18:41,512 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:18:41,512 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:191] - 2024-06-19 21:18:41,512 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:18:41,512 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:18:41,512 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:18:41,512 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:18:41,512 - DEBUG - STREAM b'IDAT' 91 1063
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,314 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,315 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,315 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,315 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,315 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,315 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,315 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,316 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,316 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,316 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,316 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,316 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,316 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,316 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,317 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,317 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,317 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,317 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,317 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,317 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:28:01,317 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[PngImagePlugin.py:191] - 2024-06-19 21:28:01,318 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:28:01,318 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:28:01,318 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:28:01,318 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:28:01,318 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:191] - 2024-06-19 21:28:01,319 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:28:01,319 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:28:01,319 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:28:01,319 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:28:01,319 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:191] - 2024-06-19 21:28:01,320 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:28:01,320 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:28:01,320 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:28:01,320 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:28:01,320 - DEBUG - STREAM b'IDAT' 91 1063
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,879 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,879 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,879 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,879 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,879 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,879 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,879 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,880 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,880 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,880 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,880 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,880 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,880 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,880 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,881 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,881 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,881 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,881 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,881 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,881 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:32:07,881 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[PngImagePlugin.py:191] - 2024-06-19 21:32:07,882 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:32:07,882 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:32:07,882 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:32:07,882 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:32:07,882 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:191] - 2024-06-19 21:32:07,883 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:32:07,883 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:32:07,883 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:32:07,883 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:32:07,883 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:191] - 2024-06-19 21:32:07,884 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:32:07,884 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:32:07,884 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:32:07,884 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:32:07,884 - DEBUG - STREAM b'IDAT' 91 1063
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,315 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,316 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,316 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,316 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,316 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,316 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,316 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,316 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,316 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,316 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,316 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,316 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,316 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,316 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,317 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,317 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,317 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,317 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,317 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,317 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:34:36,317 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[PngImagePlugin.py:191] - 2024-06-19 21:34:36,317 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:34:36,317 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:34:36,317 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:34:36,317 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:34:36,317 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:191] - 2024-06-19 21:34:36,318 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:34:36,318 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:34:36,318 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:34:36,318 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:34:36,318 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:191] - 2024-06-19 21:34:36,318 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:34:36,318 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:34:36,318 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:34:36,318 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:34:36,318 - DEBUG - STREAM b'IDAT' 91 1063
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,322 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,322 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,322 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,322 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,322 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,322 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,322 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,323 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,323 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,323 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,323 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,323 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,323 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,323 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,323 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 98 - value: b'430251177010101\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,323 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,323 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x00\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,323 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 114 - value: b'Picsart\x00'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,323 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x8e'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,323 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+[TiffImagePlugin.py:882] - 2024-06-19 21:37:12,323 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 122 - value: b'2024:06:07 01:48:23\x00'
+[PngImagePlugin.py:191] - 2024-06-19 21:37:12,324 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:37:12,324 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:37:12,324 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:37:12,324 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:37:12,324 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:191] - 2024-06-19 21:37:12,324 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:37:12,324 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:37:12,324 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:37:12,324 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:37:12,324 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:191] - 2024-06-19 21:37:12,325 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-06-19 21:37:12,325 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-06-19 21:37:12,325 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-06-19 21:37:12,325 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-06-19 21:37:12,325 - DEBUG - STREAM b'IDAT' 91 1063
