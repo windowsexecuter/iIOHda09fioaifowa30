@@ -1,8 +1,0 @@
-Whats New ?
-[+] Added New Color | 11.06.2024
-[+] Changed Name | 11.06.2024
-[+] Added exe File to Start it | 11.06.2024
-[+] Changed Webhook sender | 11.06.2024
-[+] Changed all Files Name | 11.06.2024
-[+] Locked all the Code so nobody can steal it | 19.06.2024
-[+] Added New Profile Picture for the Bot old was expired | 19.06.2024
